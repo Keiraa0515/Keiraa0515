@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("CYW world");
+    printf("CYW world/n");
 }
