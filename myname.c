@@ -2,5 +2,6 @@
 
 main() {
 
-    printf("陳應瑋n");
+    printf("陳應瑋\n");
 }
+ 
